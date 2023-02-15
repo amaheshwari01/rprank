@@ -5,7 +5,7 @@ Added josh's fork
 Hey yall here is a prank you can play on anyone with a mac
 
 ```
-bash < <(curl -s https://raw.githubusercontent.com/amaheshwari01/rprank/main/script.sh)```
+bash < <(curl -s https://raw.githubusercontent.com/amaheshwari01/rprank/main/script.sh)
 ```
 What it does is play a rickroll in the background and constantly increases the volume to 10 every 5 seconds
 It also displays a dialog say MUAHAHAHHA
