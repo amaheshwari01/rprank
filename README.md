@@ -1,5 +1,5 @@
 # rprank
-Added josh's fork
+
 
 -----
 Hey yall here is a prank you can play on anyone with a mac
@@ -11,7 +11,7 @@ What it does is play a rickroll in the background and constantly increases the v
 It also displays a dialog say MUAHAHAHHA
 And it deletes the file to leave no trace
 
-to stop the playing all you have to do is 
+To stop the audio:
 
 
 <h1 style="color:RED">Warning make sure that you are in a safe place when testing this out</h1>
@@ -19,3 +19,5 @@ to stop the playing all you have to do is
 ```
 killall afplay
 ```
+
+-----
