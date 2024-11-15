@@ -5,9 +5,14 @@
 Hey yall here is a prank you can play on anyone with a mac
 
 ```
-bash < <(curl -s https://raw.githubusercontent.com/amaheshwari01/rprank/main/script.sh)
+bash < <(curl -s https://raw.githubusercontent.com/amaheshwari01/rprank/main/script.sh) 
 ```
 What it does is play a rickroll in the background and constantly increases the volume to 10 every 5 seconds
+you can aslo type a number of seconds you want to delay befor eit sarts
+```
+bash < <(curl -s https://raw.githubusercontent.com/amaheshwari01/rprank/main/script.sh) 3600
+```
+
 It also displays a dialog say MUAHAHAHHA
 And it deletes the file to leave no trace
 
